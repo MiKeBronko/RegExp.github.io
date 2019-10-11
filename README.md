@@ -1,3 +1,4 @@
 # RegExp.github.io
-##**Sprint 10 - pattern Regular expresion**
-###__student - Mikhail Fatkin__
+## Sprint 10 - pattern Regular expresion
+### student - Mikhail Fatkin
+#### HTML
