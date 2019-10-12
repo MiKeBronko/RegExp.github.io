@@ -15,6 +15,10 @@
     <header class="header">
         <img class="header__logo" src="https://pictures.s3.yandex.net/frontend-developer/dom_bom/logo.svg" alt="logo">
         <p class="header__logo-sub">Регулярные выражения</p>
+<<<<<<< HEAD
     </header>     
+=======
+    </header>
+>>>>>>> develop
 </body>
 </html> 
