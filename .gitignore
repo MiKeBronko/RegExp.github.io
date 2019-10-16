@@ -7,3 +7,4 @@ cover.jpg
 .nojekyll
 readme.zip
 .DS_Store
+.gitignore
