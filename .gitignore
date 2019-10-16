@@ -1,0 +1,9 @@
+.gitignore
+.nojekyll
+.DS_Store
+*.txt
+*.js
+*.css
+*.svg
+*.jpg
+*.zip
